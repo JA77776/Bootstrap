@@ -1,0 +1,14 @@
+
+.background{
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu7T4w6YA_596kYdvFxeiMrUqrHXeukBGirA&usqp=CAU);
+    z-index: 1;
+    background-repeat: no-repeat;
+    overflow-wrap: normal;
+    opacity: 50%; */
+    background: url("https://modelkars.com/wp-content/uploads/77506.jpg") no-repeat;
+    background-size: contain;
+    /* background-position: center ; */
+}
+section:first-child {
+    z-index: 20;
+}
